@@ -50,6 +50,7 @@
 
 .projects-heading {
 	text-align: center;
+	text-decoration-style: inherit;
 }
 
 .projects-grid {
