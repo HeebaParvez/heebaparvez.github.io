@@ -64,7 +64,7 @@
 
 @media (max-width: 640px) {
 	.projects-grid {
-		grid-template-columns: 120%;
+		grid-template-columns: 100%;
 	}
 }
 
