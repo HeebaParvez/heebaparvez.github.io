@@ -62,7 +62,7 @@
 	padding: 4%;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 480px) {
 	.projects-grid {
 		grid-template-columns: 100%;
 	}
