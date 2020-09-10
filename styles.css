@@ -69,17 +69,19 @@
 	}
 }
 
-.links-and-contact {
+ .links-and-contact {
 	display: grid;
-	grid-template-columns: 30% 20%;
+	grid-template-columns:50% 50% ; 
 
-}
+} 
 
 .links {
 
 	justify-self: center;
 }
-
+.forms {
+	justify-self: center;
+}
 
 .links-list {
 	list-style: none;
